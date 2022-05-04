@@ -1,0 +1,9 @@
+com\commerce\pageObjects\LoginPage.class
+com\commerce\testCases\Base.class
+com\commerce\utilities\Reporting.class
+com\commerce\testCases\TC_LoginTest_001.class
+com\commerce\utilities\ReadConfig.class
+com\commerce\testCases\TC_AddnewCustomerTest_003.class
+com\commerce\testCases\TC_LoginTestDDT_002.class
+com\commerce\utilities\ExcelUtil.class
+com\commerce\pageObjects\AddnewCustomerPage.class
