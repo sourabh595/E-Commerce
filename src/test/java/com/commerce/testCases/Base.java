@@ -24,7 +24,7 @@ public class Base
 	public static WebDriver driver;
 	public static Logger logger;
 	
-	ReadConfig rc= new ReadConfig();
+	ReadConfig rc = new ReadConfig();
 	public String URL = rc.getURL();
 	public String email = rc.getEmail();
 	public String password = rc.getPassword();

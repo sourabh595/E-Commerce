@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-09T09:39:32 IST" name="E-Commerce" finished-at="2022-06-09T09:41:00 IST" duration-ms="87889">
+    <groups>
+    </groups>
+    <test started-at="2022-06-09T09:39:32 IST" name="LoginTest1" finished-at="2022-06-09T09:41:00 IST" duration-ms="87889">
+      <class name="com.commerce.testCases.TC_LoginTest_001">
+        <test-method is-config="true" signature="driverSetting(java.lang.String)[pri:0, instance:com.commerce.testCases.TC_LoginTest_001@1622f1b]" started-at="2022-06-09T09:39:32 IST" name="driverSetting" finished-at="2022-06-09T09:39:38 IST" duration-ms="6114" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetting -->
+        <test-method signature="loginTest()[pri:0, instance:com.commerce.testCases.TC_LoginTest_001@1622f1b]" started-at="2022-06-09T09:39:38 IST" name="loginTest" finished-at="2022-06-09T09:39:52 IST" duration-ms="13908" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.commerce.testCases.TC_LoginTest_001@1622f1b]" started-at="2022-06-09T09:39:52 IST" name="tearDown" finished-at="2022-06-09T09:39:52 IST" duration-ms="281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.commerce.testCases.TC_LoginTest_001 -->
+      <class name="com.commerce.testCases.TC_AddnewCustomerTest_003">
+        <test-method is-config="true" signature="driverSetting(java.lang.String)[pri:0, instance:com.commerce.testCases.TC_AddnewCustomerTest_003@34b7ac2f]" started-at="2022-06-09T09:39:52 IST" name="driverSetting" finished-at="2022-06-09T09:39:55 IST" duration-ms="2576" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetting -->
+        <test-method signature="addNewCustomerTest()[pri:0, instance:com.commerce.testCases.TC_AddnewCustomerTest_003@34b7ac2f]" started-at="2022-06-09T09:39:55 IST" name="addNewCustomerTest" finished-at="2022-06-09T09:40:59 IST" duration-ms="64404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomerTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.commerce.testCases.TC_AddnewCustomerTest_003@34b7ac2f]" started-at="2022-06-09T09:40:59 IST" name="tearDown" finished-at="2022-06-09T09:41:00 IST" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.commerce.testCases.TC_AddnewCustomerTest_003 -->
+    </test> <!-- LoginTest1 -->
+  </suite> <!-- E-Commerce -->
+</testng-results>
